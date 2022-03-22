@@ -31,7 +31,7 @@ const NewsCard = ({
   },[i, active, elRefs]);
   return (
     <>
-      <Card ref={elRefs[i]} className={classNames(classes.card, active == i? classes.activeCard: null )}>
+      <Card ref={elRefs[i]} className={classNames(classes.card, active === i? classes.activeCard: null )}>
         <CardActionArea href={url} target="_blank">
           <CardMedia
             className={classes.media}
