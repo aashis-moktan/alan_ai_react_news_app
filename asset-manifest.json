@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alan_ai_react_news_app/static/css/main.540c0aad.css",
+    "main.js": "/alan_ai_react_news_app/static/js/main.6ba99496.js",
+    "index.html": "/alan_ai_react_news_app/index.html",
+    "main.540c0aad.css.map": "/alan_ai_react_news_app/static/css/main.540c0aad.css.map",
+    "main.6ba99496.js.map": "/alan_ai_react_news_app/static/js/main.6ba99496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.540c0aad.css",
+    "static/js/main.6ba99496.js"
+  ]
+}
